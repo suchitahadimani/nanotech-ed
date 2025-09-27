@@ -24,9 +24,12 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 How to run on each one:
-npm run android   
-npm run ios 
-npm run web 
+
+```bash
+npm run android
+npm run ios
+npm run web
+```
 
 ## Get a fresh project
 

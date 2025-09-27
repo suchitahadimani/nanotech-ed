@@ -1,0 +1,90 @@
+{
+  "id": "2",
+  "title": "Lithography in Nanofabrication",
+  "image": "https://media.gettyimages.com/id/987813698/photo/researchers-wearing-bunny-suits-work-inside-the-semiconductor-fabrication-lab-at-the-centre.jpg?s=612x612&w=0&k=20&c=fGrnfqWTJn-a-os11kXPmoT0Rg0Su-t-87jovImuod4=",
+  "description": "Module 2 delves into the fundamental principles and laboratory practices of lithography in modern nanofabrication.",
+  "sections": [
+    {
+      "title": "Lithography in Nanofabrication: Basic Principles",
+      "content": "Lithography is the primary patterning method used in nanofabrication to define precise structures on substrates such as silicon wafers. The lithography process involves transferring geometric patterns onto a resist-coated wafer, which guides subsequent etching or material deposition steps. Lithography is essential for manufacturing microelectronic devices, MEMS, and nanoscale research structures."
+    },
+    {
+      "title": "Photolithography",
+      "content": "Photolithography is the most widely used lithographic process in semiconductor fabrication. A silicon wafer is coated with a photosensitive polymer called a photoresist. A patterned mask is placed over the wafer, and UV light shines through the mask to selectively expose regions of the resist. The exposed areas undergo chemical changes that enable selective removal using a developer solution, leaving behind a patterned resist suitable for etching or material deposition.\n\nAdvantages: High throughput, compatibility with mass production, ability to pattern large areas.\n\nLimitations: Feature size is limited by UV wavelength; advanced techniques like DUV and EUV can achieve features below 20 nm."
+    },
+    {
+      "title": "Electron Beam Lithography (EBL)",
+      "content": "EBL uses a finely focused beam of electrons as the patterning medium instead of light. Patterns are written directly onto an electron-sensitive resist without requiring a mask, allowing for custom or intricate nanostructures.\n\nAdvantages: Ultra-high resolution (features <10 nm), maskless patterning, flexible design.\n\nLimitations: Slow serial writing process and high cost, suitable for research and low-volume production."
+    },
+    {
+      "title": "Nanoimprint Lithography",
+      "content": "Nanoimprint lithography (NIL) employs a physical mold to mechanically deform a thin resist layer, directly imprinting nanoscale features. The mold carries the inverse of the desired pattern and is pressed onto the substrate, then removed, leaving a pattern for further processing.\n\nAdvantages: High throughput, low cost, large-area patterning with resolutions <10 nm.\n\nLimitations: Mold fabrication, alignment, and pattern transfer challenges for non-planar substrates."
+    },
+    {
+      "title": "Mask Creation, Resists, and Feature Resolution",
+      "content": "Mask Creation: Masks (photomasks) are precise plates with geometric designs, created using e-beam or laser writing on glass coated with chrome, allowing selective light transmission.\n\nResists: Lithographic resists respond to light or electron exposure.\n- Positive resists: exposed regions become soluble and are removed.\n- Negative resists: exposed regions cross-link and remain.\n\nFeature Resolution: Smallest achievable feature sizes depend on exposure wavelength, resist properties, and accuracy of exposure and development. Advanced resists, shorter wavelengths, and improved mask design enable continued miniaturization."
+    },
+    {
+      "title": "Video Demonstrations and Laboratory Experiences",
+      "videos": [
+        {
+          "label": "Demonstration of UV Photolithography (IIT Kharagpur)",
+          "url": "https://www.youtube.com/watch?v=BY8vA9XBejc"
+        },
+        {
+          "label": "Photolithography at Lincoln Laboratory (MIT)",
+          "url": "https://www.youtube.com/watch?v=j5DwMdG-_cs"
+        },
+        {
+          "label": "Expert Insights into CMOS & Diode Fabrication (Georgia Tech)",
+          "url": "https://www.youtube.com/watch?v=ADQrIm2L2Cs"
+        },
+        {
+          "label": "Lec 28 Lithography Lab Demo (NPTEL)",
+          "url": "https://www.youtube.com/watch?v=t5KgcxkRD8s"
+        },
+        {
+          "label": "Sunprint Photolithography - Activity Demo",
+          "url": "https://www.youtube.com/watch?v=SCIkLDs2woE"
+        }
+      ]
+    },
+    {
+      "title": "Additional Resources",
+      "links": [
+        {
+          "label": "Introduction to Nanotechnology and Nanofabrication - Harvard CNS (PDF)",
+          "url": "https://cns1.rc.fas.harvard.edu/facilities/docs/nanofabrication%20introduction-JD-2013-web.pdf"
+        },
+        {
+          "label": "Introduction to Micro-/Nanofabrication - INUP (PDF)",
+          "url": "https://inup.cense.iisc.ac.in/static/downloads/Introduction-to-Micro-Nanofabrication.pdf"
+        },
+        {
+          "label": "Patterning Processes for Nanofabrication (UW Madison)",
+          "url": "https://wcnt.wisc.edu/nanofabrication/processes-patterning/"
+        },
+        {
+          "label": "Electron Beam Lithography Principles (AZoNano)",
+          "url": "https://www.azonano.com/article.aspx?ArticleID=1738"
+        },
+        {
+          "label": "Nanoimprint Lithography - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nanoimprint_lithography"
+        },
+        {
+          "label": "Nanofabrication Series: Photolithography - Nanotech NYC",
+          "url": "https://www.nanotechnyc.com/post/nanofabrcation-series-photolithography"
+        },
+        {
+          "label": "Photolithography vs E Beam Lithography - EBM MACHINE",
+          "url": "https://ebeammachine.com/photolithography-vs-e-beam-lithography/"
+        },
+        {
+          "label": "Micro and Nano Processing | Electron Beam Lithography",
+          "url": "https://www.accscicn.com/en/solutions/nanofabrication/nanofab_ebl/"
+        }
+      ]
+    }
+  ]
+}

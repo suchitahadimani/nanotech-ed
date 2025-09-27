@@ -1,0 +1,45 @@
+{
+  "id": "3",
+  "title": "Thin Film Deposition",
+  "image": "https://live.staticflickr.com/5263/5661299230_887426350e_b.jpg",
+  "description": "Module 3 presents a comprehensive overview of thin film deposition, a cornerstone technology for creating layers and coatings in modern device fabrication. The module covers key deposition methods, comparative analysis, and hands-on lab resources for practical understanding.",
+  "sections": [
+    {
+      "title": "Thin Film Deposition: Overview and Methods",
+      "content": "Thin film deposition is the process of applying layers of material, often at the nanometer scale, onto a substrate to provide functional surfaces for devices like transistors, sensors, solar cells, and optical coatings. Deposition enables control over material thickness, composition, crystalline structure, and other properties critical for electronic and photonic device performance."
+    },
+    {
+      "title": "Physical Vapor Deposition (PVD)",
+      "content": "PVD transfers material from a solid or liquid source into a vapor phase and condenses it onto a substrate under vacuum. Common PVD techniques include:\n\n- Sputtering: Atoms are ejected from a target by energetic ion bombardment and condense on the substrate, used for metals, oxides, and nitrides.\n- Thermal Evaporation: Material is heated until it evaporates in vacuum and condenses on the substrate.\n- Ion Plating: Combines evaporation and ion bombardment for dense, adherent films.\n\nPVD processes are performed under high vacuum to reduce contamination and improve purity, and are widely used for depositing metals and certain ceramics without altering their chemical composition."
+    },
+    {
+      "title": "Chemical Vapor Deposition (CVD)",
+      "content": "CVD creates thin films by introducing reactive gases into a chamber with heated substrates. Chemical reactions at the surface deposit the desired material and release byproducts. Variants include:\n\n- Low-Pressure CVD (LPCVD): Reduced pressures for higher uniformity.\n- Plasma-Enhanced CVD (PECVD): Plasma energizes reactions at lower temperatures for temperature-sensitive substrates.\n- Atomic Layer Deposition (ALD): Sequential exposure to precursors for atomic-level thickness precision, yielding ultrathin and conformal films.\n\nCVD allows precise tuning of film properties, tailored composite coatings, and is scalable for industrial production."
+    },
+    {
+      "title": "Comparative Analysis of Deposition Methods",
+      "content": "Key aspects of CVD, PVD, ALD, and PECVD can be summarized as follows:\n\n- CVD: Gas-phase reaction on heated substrate. Excellent conformity and compositional control. Applications: Semiconductor coatings, dielectrics. Limitation: High temperature required.\n- PVD: Physical transfer in vacuum. Produces pure films quickly and is scalable. Applications: Metallization, optical coatings. Limitation: Limited conformity, line-of-sight deposition.\n- PECVD: Plasma-assisted reaction. Works at lower temperatures, allows tailored properties. Applications: Flexible electronics, solar cells. Limitation: Potential plasma damage.\n- ALD: Sequential atomic layer growth. Exceptional thickness control and high uniformity. Applications: Gate oxides, advanced device layers. Limitation: Slow deposition rate.\n\nPractical examples include semiconductor devices using CVD for silicon nitride/oxide, metal contacts via PVD, OLED displays and solar panels using PECVD, and ultra-thin high-k dielectrics via ALD."
+    },
+    {
+      "title": "Additional Resources",
+      "links": [
+        {
+          "label": "Thin Films Deposition Technique – Nanoscience and Nanotechnology I",
+          "url": "https://ebooks.inflibnet.ac.in/msp08/chapter/thin-films-deposition-technique/"
+        },
+        {
+          "label": "HANDBOOK OF THIN-FILM DEPOSITION PROCESSES AND TECHNIQUES (PDF)",
+          "url": "https://dl.icdst.org/pdfs/files/7f2e9ab17d5f18e4ca76642b853a75fa.pdf"
+        },
+        {
+          "label": "Handbook of Thin Film Deposition – ScienceDirect",
+          "url": "https://www.sciencedirect.com/book/9781437778731/handbook-of-thin-film-deposition"
+        },
+        {
+          "label": "Advanced Nano Deposition Methods | Wiley",
+          "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9783527696406"
+        }
+      ]
+    }
+  ]
+}

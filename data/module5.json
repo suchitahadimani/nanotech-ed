@@ -1,0 +1,82 @@
+{
+  "id": "5",
+  "title": "Project-Based Learning & Industry Connections in Nanofabrication",
+  "image": "https://media.gettyimages.com/id/1363604154/photo/technician-with-wafer.jpg?s=612x612&w=0&k=20&c=B2CwOAyOx8n-WnYovjXsgGmajUHxCtCsPV8xPhlKyNo=",
+  "description": "Module 5 focuses on project-based learning (PBL) in nanofabrication and fostering industry connections through practical, real-world projects and educational resources.",
+  "sections": [
+    {
+      "title": "Project-Based Learning in Nanofabrication",
+      "content": "Project-based learning (PBL) immerses students in hands-on, interdisciplinary projects that bridge theoretical knowledge with practical applications. PBL fosters problem-solving, creativity, and collaboration—essential skills for advancing nanotechnology innovation and addressing complex challenges in industry and society."
+    },
+    {
+      "title": "Example Projects",
+      "content": "- Nanorobots for Sustainability: Design and prototype autonomous nanoscale robots for environmental monitoring, pollutant degradation, or precision agriculture.\n- Nano-Medical Devices: Develop models or simulations for nanoscale targeted drug delivery systems, nanosensors for diagnostics, or nano-enabled tissue engineering scaffolds.\n- Smart Textiles: Investigate integration of nanoscale sensors, coatings, or conductive fibers to create textiles with responsive features like temperature regulation, health monitoring, or adaptive camouflage."
+    },
+    {
+      "title": "Competition and Showcase",
+      "content": "Students are encouraged to communicate their work via video presentations, posters, or virtual showcases. These venues help:\n- Encourage professional scientific communication skills.\n- Facilitate peer and faculty feedback.\n- Connect researchers, industry mentors, and funding opportunities.\n- Simulate real-world scientific conferences or startup pitch events."
+    },
+    {
+      "title": "Lecture Videos and MOOCs",
+      "links": [
+        {
+          "label": "IISc Bangalore Fundamentals of Micro and Nanofabrication (NPTEL Course)",
+          "url": "https://nptel.ac.in/courses/102108078"
+        },
+        {
+          "label": "IISc Bangalore Fundamentals of Micro and Nanofabrication (InfoCoBuild overview)",
+          "url": "http://www.infocobuild.com/education/audio-video-courses/electronics/fundamentals-of-micro-nanofabrication-iisc-bangalore.html"
+        },
+        {
+          "label": "IISc Bangalore Micro and Nano Fabrication Laboratory Course",
+          "url": "https://www.cense.iisc.ac.in/shankarks/course/micro-and-nano-fabrication-laboratory"
+        },
+        {
+          "label": "NPTEL YouTube Playlist: Fundamentals of Micro and Nanofabrication",
+          "url": "https://www.youtube.com/playlist?list=PLgMDNELGJ1CbHti4HN0BuagtoD06H78YT"
+        },
+        {
+          "label": "EPFL Micro/Nano Fabrication MOOC (Search on EPFL or Coursera platforms)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Additional Resources",
+      "links": [
+        {
+          "label": "Implementation of Hands-On Nanofabrication Projects in Mechanical Engineering Design Courses (PDF)",
+          "url": "https://peer.asee.org/implementation-of-hands-on-nanofabrication-projects-into-undergraduate-mechanical-engineering-design-courses.pdf"
+        },
+        {
+          "label": "Project Based Learning in Nanotechnology and Medicine - Anilocus",
+          "url": "https://anilocus.org/project-based-learning-in-nanotechnology-and-medicine/"
+        },
+        {
+          "label": "Nanofabrication: Examples of Process Development and Integration - IIT Chemistry Dept",
+          "url": "https://www.iit.edu/events/nanofabrication-examples-process-development-and-integration"
+        },
+        {
+          "label": "TeachEngineering Nanotechnology Lesson",
+          "url": "https://www.teachengineering.org/lessons/view/uoh_nano_lesson02"
+        },
+        {
+          "label": "Science Buddies: Exploring Nanotechnology Paper Project",
+          "url": "https://www.sciencebuddies.org/science-fair-projects/project-ideas/MatlSci_p042/materials-science/exploring-nanotechnology-paper"
+        },
+        {
+          "label": "Wiley: PBL in Nanotechnology Education",
+          "url": "https://sid.onlinelibrary.wiley.com/doi/full/10.1002/jsid.1182"
+        },
+        {
+          "label": "YouTube Video Demonstration",
+          "url": "https://www.youtube.com/watch?v=P02dYJw4GMU"
+        },
+        {
+          "label": "San Jose State ScholarWorks - Nanofabrication Projects PDF",
+          "url": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1027&context=chem_mat_eng_pub"
+        }
+      ]
+    }
+  ]
+}

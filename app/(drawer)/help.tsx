@@ -6,8 +6,9 @@ import ParallaxScrollView from '@/components/parallax-scroll-view';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Link } from 'expo-router';
+import AnimatedSineWave from '@/components/animated-sine-wave';
 
-export default function HomeScreen() {
+export default function Help() {
   return (
     <ParallaxScrollView
       headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
@@ -17,10 +18,13 @@ export default function HomeScreen() {
           style={styles.reactLogo}
         />
       }>
+        
       <ThemedView style={styles.titleContainer}>
         <ThemedText type="title">Welcome!</ThemedText>
         <HelloWave />
       </ThemedView>
+      <ThemedText>Here is how a sine wave would look like:</ThemedText>
+      <AnimatedSineWave/>
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Step 1: Try it</ThemedText>
         <ThemedText>

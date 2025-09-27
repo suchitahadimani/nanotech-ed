@@ -1,0 +1,61 @@
+{
+  "id": "4",
+  "title": "Etching in Nanofabrication",
+  "image": "https://live.staticflickr.com/7090/7375859762_3f4e27b8ea_b.jpg",
+  "description": "Module 4 covers the essential processes of dry and wet etching in nanofabrication, describing key mechanisms, process control, and practical laboratory insights.",
+  "sections": [
+    {
+      "title": "Wet Etching: Chemical Solutions and Isotropy",
+      "content": "Wet etching is a subtractive fabrication process where materials are removed from a substrate using liquid-phase chemical solutions (etchants). The substrate is masked so only unprotected areas are exposed, allowing selective removal. Wet etching is classified as isotropic or anisotropic depending on etch directionality."
+    },
+    {
+      "title": "Isotropic Wet Etching",
+      "content": "Materials are removed uniformly in all directions, producing rounded profiles and lateral undercutting beneath the mask. Common etchants include dilute hydrofluoric acid for silicon dioxide and hydrochloric/nitric acid mixtures for silicon.\n\nAdvantages:\n- Simple setup\n- High material selectivity\n- Widely used for non-critical geometries and wafer cleaning\n\nDrawbacks:\n- Poor control of etch profiles\n- Undercutting\n- Loss of feature resolution"
+    },
+    {
+      "title": "Anisotropic Wet Etching",
+      "content": "Anisotropic wet etching uses etchants like potassium hydroxide (KOH) that preferentially remove material along specific crystallographic planes, producing angular structures with controlled vertical sidewalls.\n\nAdvantages:\n- Well-defined geometric features\n- Directional control\n- Suitable for microchannels and MEMS\n\nDrawbacks:\n- Strong dependence on crystal orientation\n- Strict control of temperature and concentration required\n- Chemical handling hazards"
+    },
+    {
+      "title": "Dry Etching: Plasma and Reactive Gases",
+      "content": "Dry etching uses gaseous etchants activated by plasma or energy sources for material removal through physical or chemical interactions at the wafer surface. Dry etching provides high anisotropy and precise feature control.\n\n- Plasma Etching: Energetic ions and neutral species react with or bombard the surface, selectively removing unprotected areas.\n- Reactive Ion Etching (RIE): Combines ion bombardment and chemical reactions to achieve highly anisotropic (vertical) etch profiles, with tunable selectivity and geometry.\n\nDry etching is preferred for advanced devices due to minimal lateral etch and sharp vertical sidewalls."
+    },
+    {
+      "title": "Comparative Analysis",
+      "content": "Key differences between wet and dry etching methods:\n\n- Wet Etching (Isotropic): Liquid etchant, non-directional. Uses: wafer cleaning, rough etch. Advantages: simple, selective. Limitations: undercutting, poor profile control.\n- Wet Etching (Anisotropic): Liquid etchant, directional along crystal planes. Uses: MEMS, silicon microchannels. Advantages: sharp features, selective. Limitations: orientation sensitivity, chemical handling.\n- Dry Etching (Plasma/RIE): Gaseous/plasma, vertical directionality. Uses: advanced micro/nano devices. Advantages: precision, fine features. Limitations: complex equipment, potential surface damage."
+    },
+    {
+      "title": "Additional Resources",
+      "links": [
+        {
+          "label": "Silicon Wet Isotropic and Anisotropic Etching (UMD PDF Report)",
+          "url": "http://classweb.ece.umd.edu/enee416.F2007/GroupActivities/Report3.pdf"
+        },
+        {
+          "label": "Etching - PV-Manufacturing.org",
+          "url": "https://pv-manufacturing.org/etching/"
+        },
+        {
+          "label": "Wet Etching vs. Dry Etching (Cadence Blog)",
+          "url": "https://resources.pcb.cadence.com/blog/2024-wet-etching-vs-dry-etching"
+        },
+        {
+          "label": "Anisotropic Etching vs. Isotropic Etching - Thierry Corp",
+          "url": "https://www.thierry-corp.com/plasma-knowledgebase/anisotropic-etching"
+        },
+        {
+          "label": "Dry Etching vs. Wet Etching - Xometry",
+          "url": "https://www.xometry.com/resources/blog/dry-etching-vs-wet-etching/"
+        },
+        {
+          "label": "Isotropic vs Anisotropic Etching: Complete Guide - Keylink Technology",
+          "url": "https://www.keylinktech.com/plasma-surface-technology/process/plasma-etching/isotropic-vs-anisotropic/"
+        },
+        {
+          "label": "MEMS Fabrication: Dry and Wet Etching (YouTube)",
+          "url": "https://www.youtube.com/results?search_query=mems+fabrication+dry+wet+etching"
+        }
+      ]
+    }
+  ]
+}
